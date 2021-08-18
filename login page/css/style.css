@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+h1,h2,h3,h4,h5,h6{font-family: 'Oswald', sans-serif;font-weight:500;
+
+}
+
+.body{
+   background-color: chocolate;
+    padding: auto;
+}
+.topbarmanue {
+    background: black;
+    float: left;
+    width: 1266px;
+}
+
+img {
+    width: 250px;
+    height: 50px;
+}
+
+ul.manues {
+    float: right;
+    width: 300px;
+}
+
+ul.onemanue {
+    width: 540px;
+    float: right;
+}
+ul.manues li a{
+    text-decoration: none;
+    color: azure;
+}
+ul.manues li a:hover{
+
+    color: rgb(255, 166, 0);
+}
+ul.onemanue li a{
+    text-decoration: none;
+    color: azure;
+}
+a {
+    width: 100px;
+    float: left;
+}
+li {
+    float: left;
+    width: 100px;
+}
+
+li {
+    float: left;
+    width: 100px;
+}
+
+a {
+    text-align: center;
+}
+.inputboxMain {
+    padding: 120px;
+    background-color: #a0a0a0;
+    padding-bottom: 90px;
+}
+.box1 {
+    margin: auto;
+    width: 40%;
+    border: 3px solid rgb(255, 166, 0);
+    padding: 10px;
+    background-color: #3c3b3b;
+    text-align: center;
+    color: #ffffff;
+    height: 300px;
+  }
+  button {
+    background-color: white;
+}
+button:hover{
+    background-color: rgb(233, 162, 8);
+    color: rgb(255, 255, 255);
+    
+}
+.remember {
+    padding: 20px;
+}
+h2 {color: #ff7703;text-align: center;}
+.color {
+    background-colorb: black;
+    display: block;
+}
+.Mcopy {
+    background-color: black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
